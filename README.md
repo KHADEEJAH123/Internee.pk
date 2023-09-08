@@ -4,5 +4,5 @@
 </div>
 <br>
 
-<img src='Preview.png'>
+<img src='preview.png'>
 <br>
