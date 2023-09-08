@@ -4,5 +4,5 @@ HTML/CSS PROJECT
 </div>
 <br>
 
-<img src='preview.png'>
+<img src='preview.JPG'>
 <br>
